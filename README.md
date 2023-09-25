@@ -13,6 +13,8 @@ Components Will be added over time. Note that the comoponents havent been packag
 
 ## Top Bars
 
+## Top Bars
+
 All Top Bars. [top Bars](https://github.com/Arthur-codeX/legendary-react-components/blob/main/src/components/TopBars.jsx)
 
 ### Info Top Bar
